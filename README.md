@@ -1,12 +1,9 @@
 ## 안녕하세요! 개발자 곽태호입니다. 👋
 
-<div align="left">
-  <a href="https://solved.ac/taeho0809">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=taeho0809" alt="Baekjoon Tier" height="150" />
-  </a>
-</div>
+## 🎓 Education & Activities
 
-<br>
+- **경기대학교 (Kyeonggi University)** | 컴퓨터공학과 재학 중
+- **42 Gyeongsan** | Common Core (공통 교육 과정) 수료, Transcendence 수행 중
 
 ## 🛠️ Tech Stack
 
@@ -45,3 +42,15 @@
 - **[minishell](https://github.com/taeho89/minishell)**: 프로세스 제어와 IPC 메커니즘을 C언어로 재현한 UNIX 쉘 프로젝트.
 - **[libasm](https://github.com/taeho89/libasm)**: x86-64 어셈블리어로 표준 C 라이브러리 재구현.
 - **[ft_ls](https://github.com/taeho89/ft_ls)**: 파일 시스템 API를 활용한 디렉토리 탐색 및 메타데이터 출력 로직 구현.
+
+<br>
+
+<div align="left">
+  <a href="https://solved.ac/taeho0809">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=taeho0809" alt="Baekjoon Tier" height="150" />
+  </a>
+</div>
+
+<br>
+
+
